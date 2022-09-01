@@ -18,5 +18,13 @@
     <ClCompile Include="ProgramMain.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="imageFileIO.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="netPBM.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
