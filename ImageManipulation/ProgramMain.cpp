@@ -7,7 +7,7 @@
 
  /** ********************************************************************
  *
- * @mainpage Take Home Programming Exam 1 - Image manipulation
+ * @mainpage Image manipulation
  *
  * @section course_section Course Information
  *
