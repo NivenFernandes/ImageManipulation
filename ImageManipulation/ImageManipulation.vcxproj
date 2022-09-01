@@ -20,6 +20,8 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="imageFileIO.cpp" />
+    <ClCompile Include="imageOperations.cpp" />
+    <ClCompile Include="memory.cpp" />
     <ClCompile Include="ProgramMain.cpp" />
   </ItemGroup>
   <ItemGroup>
